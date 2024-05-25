@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkli" alt="devkli" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/d3vkli" target="blank"><img src="https://img.shields.io/twitter/follow/khalilgoldenn?logo=twitter&style=for-the-badge" alt="khalilgoldenn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/d3vkli" target="blank"><img src="https://img.shields.io/twitter/follow/d3vkli?logo=twitter&style=for-the-badge" alt="d3vkli" /></a> </p>
 
 - 🔭 Interested in **Python, C++ and CP.**
 
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/d3vkli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khalilgoldenn" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kodemars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kodemars" height="30" width="40" /></a>
+<a href="https://twitter.com/d3vkli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d3vkli" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kodemars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="KodeMars" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
