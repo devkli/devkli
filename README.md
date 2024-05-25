@@ -1,10 +1,11 @@
+<h1 align="center"> Hi 👋, I'm devkli!</h1>
 <h3 align="center">Passionate student interested in CS and AI.</h3>
-
+<img align="right" alt="0101" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkli&label=Profile%20views&color=0e75b6&style=flat" alt="devkli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkli" alt="devkli" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/d3vkli" target="blank"><img src="https://img.shields.io/twitter/follow/d3vkli?logo=twitter&style=for-the-badge" alt="d3vkli" /></a> </p>
+<p align="left"> <a href="https://twitter.com/d3vkl" target="blank"><img src="https://img.shields.io/twitter/follow/d3vkl?logo=twitter&style=for-the-badge" alt="d3vkl" /></a> </p>
 
 - 🔭 Interested in **Python, C++ and CP.**
 
@@ -16,9 +17,9 @@
 
 - 🟢 **Green** is my favorite color.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect wih me:</h3>
 <p align="left">
-<a href="https://twitter.com/d3vkli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d3vkli" height="30" width="40" /></a>
+<a href="https://twitter.com/d3vkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d3vkl" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kodemars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="KodeMars" height="30" width="40" /></a>
 </p>
 
