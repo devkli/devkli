@@ -10,8 +10,6 @@
 
 - 🌱 Currently learning Web development (**HTML5, CSS & JS**).
 
-- 📫 Reach me by email **khalilworkspace1@gmail.com**
-
 - 🟢 **Green** is my favorite color.
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkli&label=Profile%20views&color=40A578&style=flat" alt="devkli" /> </p>
