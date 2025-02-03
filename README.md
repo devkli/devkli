@@ -4,7 +4,7 @@
 <br>
 <p align="left"> <a href="https://twitter.com/d3vkl" target="blank"><img src="https://img.shields.io/twitter/follow/d3vkl?logo=twitter&style=for-the-badge" alt="d3vkl" /></a> </p>
 
-- 🔭 Interested in **Web Development and Python.**
+- 🔭 Interested in **Web Development, Machine learning and Python.**
 
 - 💬 Any help or **advice** would be appreciated.
 
