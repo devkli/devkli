@@ -7,5 +7,3 @@
 <br>
 <h3 align="left">Links:</h3>
 <p align="left">
-
-<a href="https://codeforces.com/profile/kodemars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="KodeMars" height="30" width="40" /></a>
