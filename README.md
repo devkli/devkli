@@ -4,6 +4,3 @@
 <br>
 <p align="left"> <a href="https://twitter.com/d3vkl" target="blank"><img src="https://img.shields.io/twitter/follow/d3vkl?logo=twitter&style=for-the-badge" alt="d3vkl" /></a> </p>
 🔭 Interested in Machine learning, Python and Web Developement.
-<br>
-<h3 align="left">Links:</h3>
-<p align="left">
