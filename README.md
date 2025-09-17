@@ -1,5 +1,30 @@
-<h1 align="center"> Hey there 👋, I'm Khalil!</h1>
-<h3 align="center">Passionate student interested in CS.</h3>
-<img align="right" alt="0101" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"/>
-<br>
-🔭 Interested in Machine learning, Python and Web Developement.
+## Howdy! 😄 I'm Khalil, and I like Computer Science. 💻
+  🐍 Currently learning Python and Web Development! (wish me luck ^.^)
+
+  
+  🤖 Interested in Machine Learning(ML) and Large Language Models(LLMs)
+
+  
+  🥇 Future Competitive Programmer
+
+  
+  🎮 Casual gaming enjoyer
+
+
+  🎨 Seasoned Graphic designer, enthusiast and freelancer with over 4 years of experience
+
+  Connect w/ me and grow together! 📁
+  
+  [![Linkedin: Khalil](https://img.shields.io/badge/-Khalil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elmarissikhalil/)](https://www.linkedin.com/in/elmarissikhalil/)
+  [![GitHub Devkli](https://img.shields.io/github/followers/devkli?label=follow&style=social)](https://github.com/devkli)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/d3vkl?style=social)
+
+---
+
+- 🛠️ I'm currently working on a portfolio website
+
+- 🏅 I also like sports and cultural knowledge
+
+---
+
+### Assalamualaikum! 👋
