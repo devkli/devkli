@@ -1,4 +1,4 @@
-## Howdy! 😄 I'm Khalil, and I like Computer Science. 💻
+## Hi! 😄 I'm Khalil. 💻
   🐍 Currently learning Python and ML! (wish me luck ^.^)
   
   🤖 Interested in Machine Learning (ML) and Hackathons!
