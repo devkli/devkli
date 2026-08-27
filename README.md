@@ -1,8 +1,3 @@
-## Hi! 😄 I'm Khalil. 💻
-  🐍 Currently learning Python and ML! (wish me luck ^.^)
-  
-  🤖 Interested in Machine Learning (ML) and Hackathons!
-
   Connect w/ me! 📁
   
   [![Linkedin: Khalil](https://img.shields.io/badge/-Khalil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elmarissikhalil/)](https://www.linkedin.com/in/elmarissikhalil/)
